@@ -133,6 +133,6 @@ This project is licensed under the MIT License - feel free to use it however you
 Found a bug? Have a feature request? Feel free to:
 - Open an issue
 - Submit a pull request
-- Connect with me on [GitHub](https://github.com/yourusername)
+- Connect with me on [GitHub](https://github.com/SamparkBhol)
 
 Happy virtual mousing! 🖱️✨
